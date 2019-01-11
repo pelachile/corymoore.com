@@ -43,7 +43,8 @@
     "roots/wp-password-bcrypt": "1.0.0",
     "deliciousbrains-plugin/wp-migrate-db-pro": "^1.9",
     "deliciousbrains-plugin/wp-migrate-db-pro-media-files": "^1.4",
-    "woocommerce/woocommerce": "^3.5"
+    "woocommerce/woocommerce": "^3.5",
+    "woocommerce-theme/storefront": "*"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.0.2",
