@@ -29,7 +29,10 @@
   "repositories": [
     {
       "type": "composer",
-      "url": "https://wpackagist.org"
+      "url": "https://wpackagist.org",
+      "type": "composer",
+      "url": "https://composer.deliciousbrains.com/
+A4313D1D2AC2A3E2FC7674B1F132CA67"
     }
   ],
   "require": {
