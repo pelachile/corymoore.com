@@ -29,10 +29,7 @@
   "repositories": [
     {
       "type": "composer",
-      "url": "https://wpackagist.org",
-      "type": "composer",
-      "url": "https://composer.deliciousbrains.com/
-A4313D1D2AC2A3E2FC7674B1F132CA67"
+      "url": "https://wpackagist.org"
     }
   ],
   "require": {
@@ -42,7 +39,8 @@ A4313D1D2AC2A3E2FC7674B1F132CA67"
     "oscarotero/env": "^1.1.0",
     "roots/wordpress": "5.0.3",
     "roots/wp-config": "1.0.0",
-    "roots/wp-password-bcrypt": "1.0.0"
+    "roots/wp-password-bcrypt": "1.0.0",
+    "deliciousbrains-plugin/wp-migrate-db-pro": "1.9.2"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.0.2",
