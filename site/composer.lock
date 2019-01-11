@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "3f8018704cf40e74021697c7411437cc",
+    "content-hash": "587a474707c8a2a4db3828ece6b43b16",
     "packages": [
         {
             "name": "composer/installers",
@@ -132,6 +132,20 @@
             "dist": {
                 "type": "zip",
                 "url": "https://api.deliciousbrains.com/?wc-api=delicious-brains&request=composer_download&package=wp-migrate-db-pro&version=1.9.2&composer_key=A4313D1D2AC2A3E2FC7674B1F132CA67",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin"
+        },
+        {
+            "name": "deliciousbrains-plugin/wp-migrate-db-pro-media-files",
+            "version": "1.4.12",
+            "dist": {
+                "type": "zip",
+                "url": "https://api.deliciousbrains.com/?wc-api=delicious-brains&request=composer_download&package=wp-migrate-db-pro-media-files&version=1.4.12&composer_key=A4313D1D2AC2A3E2FC7674B1F132CA67",
                 "reference": null,
                 "shasum": null
             },
